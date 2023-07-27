@@ -16,15 +16,8 @@ This application will allow users to generate a license badge as well as a link 
 Al that is required to install the application is to search it's name in a web browser, "License Program", and install the program onto your personal computer or mobile device.
 
 
-## Usage
+![badgeboard](https://github.com/DylanCummins4167/readme-gen/assets/129929151/61283910-7865-427d-83aa-eecd1562c229)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
